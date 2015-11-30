@@ -18,3 +18,8 @@ Donde:
 - RUTA_MAVEN es la ruta donde se encuentra el Maven (raíz)
 
 Nota: En Windows añadir como variables de entorno en el espacio de Usuario: Clic derecho sobre Equipo -> Propiedades -> Variables de entorno
+
+3.- Para verificar que se ha instalado correctamente:
+```
+> mvn --help
+```
