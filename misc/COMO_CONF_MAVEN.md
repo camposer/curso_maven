@@ -17,7 +17,9 @@ Donde:
 - RUTA_JAVA es la ruta donde se encuentra el JDK (raíz)
 - RUTA_MAVEN es la ruta donde se encuentra el Maven (raíz)
 
-Nota: En Windows añadir como variables de entorno en el espacio de Usuario: Clic derecho sobre Equipo -> Propiedades -> Variables de entorno
+Nota: En Windows:
+- Añadir las variables de entorno en el espacio de Usuario: Clic derecho sobre Equipo -> Propiedades -> Variables de entorno
+- La variable PATH probablemente ya contenga la ruta %JAVA_HOME%\bin
 
 3.- Para verificar que se ha instalado correctamente:
 ```
