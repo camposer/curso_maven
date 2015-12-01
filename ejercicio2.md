@@ -5,3 +5,5 @@
 NOTAS:
 - Puede consultar el siguiente [artículo](http://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/)
 - Se recomienda utilizar la versión de servlets versión 3.1
+
+2.- Configurar proyecto para que inicie automáticamente en Tomcat 7 (embebido). Ver: (tomcat plugin)[http://tomcat.apache.org/maven-plugin.html]
