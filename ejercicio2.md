@@ -7,3 +7,8 @@ NOTAS:
 - Se recomienda utilizar la versión de servlets versión 3.1
 
 2.- Configurar proyecto para que inicie automáticamente en Tomcat 7 (embebido). Ver: (tomcat plugin)[http://tomcat.apache.org/maven-plugin.html]
+
+Para ejecutar:
+```
+> mvn clean install tomcat7:run
+```
