@@ -23,3 +23,5 @@
 	- http://es.slideshare.net/ssuser8e9f37/an-introduction-to-maven-13584591
 - Tutoriales
 	- http://www.mkyong.com/tutorials/maven-tutorials/
+- Maven by Example
+	- http://books.sonatype.com/mvnex-book/reference/index.html
