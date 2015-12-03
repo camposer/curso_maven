@@ -25,3 +25,7 @@
 	- http://www.mkyong.com/tutorials/maven-tutorials/
 - Maven by Example
 	- http://books.sonatype.com/mvnex-book/reference/index.html
+- How to copy a resource or another in Maven depending on the target environment?
+	- http://stackoverflow.com/questions/512516/how-to-copy-a-resource-or-another-in-maven-depending-on-the-target-environment
+- Nexus Sonatype (Repository Manager)
+	- http://www.sonatype.org/nexus/
